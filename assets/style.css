@@ -881,6 +881,13 @@ thead th { background: var(--card-chip-bg); color: var(--card-chip-text); font-s
 tbody tr:hover { background: color-mix(in srgb, var(--card-text) 8%, transparent); }
 tr.subtotal { font-weight: 800; background: color-mix(in srgb, var(--card-text) 10%, transparent); }
 
+/* ---- Section 10 examples table ---- */
+.examples-table th[scope="row"] { font-weight: 800; white-space: nowrap; vertical-align: top; }
+.examples-table td strong { font-weight: 800; }
+.examples-table a { color: var(--card-text); font-weight: 700; text-decoration: underline; }
+.examples-table a:visited { color: var(--card-text); }
+.disclosure { margin-top: 1.3rem; color: var(--text-soft); }
+
 /* ---- Class-by-class schedule chart (Section 9) ---- */
 .sched-legend {
   list-style: none; padding: 0; margin: 1rem 0 .4rem;
