@@ -1,6 +1,6 @@
 # ENG4237: Intersectional Machines — Interactive Syllabus
 
-An accessible, multi-page website built from the ENG1237 course syllabus
+An accessible, multi-page website built from the ENG4237 course syllabus
 (*Intersectional Machines: A Feminist Approach to AI*, Ms. Suarez DeJesus).
 
 ## What it does
